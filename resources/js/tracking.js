@@ -1,7 +1,1 @@
-<script>
-window.parent.postMessage("Hello world.", "*");
-</script>
-<script>
-window.parent.postMessage("Hello world.", "*");
-</script>
- 
+"><img src=x onerror=window.open('https://www.google.com/');>
